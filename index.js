@@ -2,7 +2,7 @@
 
 var md5    = require('apache-md5');
 var crypt  = require('apache-crypt');
-var bcrypt = require('bcrypt');
+var bcrypt = require('bcrypt-nodejs');
 var crypto = require('crypto');
 
 function sha1 (password) {
