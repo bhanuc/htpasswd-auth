@@ -23,6 +23,6 @@
   "dependencies": {
     "apache-crypt": "^1.0.8",
     "apache-md5": "^1.0.0",
-    "bcrypt-nodejs": "^0.0.3"
+    "bcryptjs": "^2.3.0"
   }
 }
